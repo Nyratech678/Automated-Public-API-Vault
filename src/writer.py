@@ -1,7 +1,7 @@
 import json
 import logging
 import os
-from dataclasses import dataclass
+from dataclasses import asdict, dataclass
 
 logger = logging.getLogger(__name__)
 
@@ -32,17 +32,7 @@ def export_for_site(categorized: dict[str, list[API]], output_dir: str = ".") ->
     all_apis = []
     for cat, apis in categorized.items():
         for api in apis:
-            all_apis.append(
-                {
-                    "name": api.name,
-                    "description": api.description,
-                    "language": api.language,
-                    "stars": api.stars,
-                    "updated_at": api.updated_at,
-                    "archived": api.archived,
-                    "url": api.url,
-                }
-            )
+            all_apis.append(asdict(api))
 
     apis_path = os.path.join(output_dir, "apis.json")
     with open(apis_path, "w", encoding="utf-8") as f:
