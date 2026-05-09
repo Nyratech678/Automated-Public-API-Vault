@@ -8,7 +8,7 @@
 
 | [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, color… | Python | BSD-3-Clause | 38062 | 2026-05-09 | Active |
 
-| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33305 | 2026-05-09 | Active |
+| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33306 | 2026-05-09 | Active |
 
 | [apache/apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | Apache-2.0 | 16574 | 2026-05-09 | Active |
 

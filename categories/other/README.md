@@ -6,7 +6,7 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 433518 | 2026-05-09 | Active |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 433519 | 2026-05-09 | Active |
 
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | NOASSERTION | 99507 | 2026-05-09 | Active |
 
@@ -18,7 +18,7 @@
 
 | [ccxt/ccxt](https://github.com/ccxt/ccxt) | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# … | Python | MIT | 42360 | 2026-05-09 | Active |
 
-| [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | TypeScript | MIT | 40164 | 2026-05-09 | Active |
+| [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | TypeScript | MIT | 40165 | 2026-05-09 | Active |
 
 | [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | … | N/A | MIT | 37822 | 2026-05-09 | Active |
 
@@ -40,7 +40,7 @@
 
 | [mswjs/msw](https://github.com/mswjs/msw) | Industry standard API mocking for JavaScript. | TypeScript | MIT | 17909 | 2026-05-09 | Active |
 
-| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。 | Python | Apache-2.0 | 17739 | 2026-05-09 | Active |
+| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。 | Python | Apache-2.0 | 17740 | 2026-05-09 | Active |
 
 | [fangzesheng/free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | N/A | N/A | 16065 | 2026-05-09 | Active |
 
