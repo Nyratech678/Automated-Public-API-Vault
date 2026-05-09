@@ -1,0 +1,34 @@
+{
+  "auth": [
+    "authentication", "oauth", "openid", "saml", "ldap", "jwt", "sso",
+    "authorization", "login", "passwordless", "two-factor", "totp", "openid-connect",
+    "api-key", "apikey", "token", "identity", "mfa", "passkey", "session"
+  ],
+  "data": [
+    "database", "sql", "nosql", "storage", "postgresql", "mysql", "mongodb",
+    "cache", "redis", "elasticsearch", "datastore", "orm", "query", "migration",
+    "sqlite", "vector-database", "warehouse", "lake", "etl", "analytics"
+  ],
+  "security": [
+    "security", "vulnerability", "cve", "patching", "firewall", "encryption",
+    "penetration-testing", "siem", "ids", "waf", "secret-management", "hsm",
+    "threat", "hardening", "compliance", "audit", "ioc", "sandbox"
+  ],
+  "messaging": [
+    "messaging", "pubsub", "queue", "kafka", "rabbitmq", "nats", "grpc", "websocket",
+    "event-driven", "streaming", "broker", "notification", "chat", "realtime"
+  ],
+  "logging": [
+    "logging", "log", "monitoring", "tracing", "opentelemetry", "fluentd",
+    "prometheus", "grafana", "observability", "metrics", "telemetry", "alerting"
+  ],
+  "infra": [
+    "kubernetes", "docker", "terraform", "ansible", "ci-cd", "cloud",
+    "aws", "azure", "gcp", "infrastructure", "orchestration", "serverless",
+    "deployment", "devops", "helm", "cluster", "container"
+  ],
+  "machine-learning": [
+    "machine-learning", "deep-learning", "ml", "llm", "nlp", "inference",
+    "tensorflow", "pytorch", "model", "embedding", "ai", "rag", "vector", "training"
+  ]
+}

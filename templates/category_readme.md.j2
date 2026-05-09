@@ -1,0 +1,13 @@
+# {{ category_name }}
+
+{% if apis %}
+**{{ apis | length }}** APIs in this category.
+
+| Name | Description | Language | License | Stars | Updated | Status |
+|------|-------------|----------|---------|-------|---------|--------|
+{% for api in apis %}
+| [{{ api.name }}]({{ api.url }}) | {{ api.description | default('No description', true) | truncate(100, True, '…') }} | {{ api.language or 'N/A' }} | {{ api.license or 'N/A' }} | {{ api.stars }} | {{ api.updated_at[:10] if api.updated_at else 'N/A' }} | {{ 'Archived' if api.archived else 'Active' }} |
+{% endfor %}
+{% else %}
+No API found in this category.
+{% endif %}

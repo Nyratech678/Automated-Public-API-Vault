@@ -1,0 +1,13 @@
+# Automated Public API Vault
+
+Curated public APIs, organized by category and updated automatically.
+
+## Categories
+
+{% if categories %}
+{% for cat in categories %}
+- [{{ cat }}](categories/{{ cat }}/README.md)
+{% endfor %}
+{% else %}
+- No categories available yet.
+{% endif %}
