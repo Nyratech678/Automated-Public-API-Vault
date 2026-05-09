@@ -59,7 +59,7 @@ jobs:
       - name: Run curation script
         id: curation
         run: |
-          python -m src.main.py --query "${QUERY_INPUT:-topic:api}" --max-results "${MAX_RESULTS_INPUT:-100}" | tee output.log
+          python -m src.main --query "${QUERY_INPUT:-topic:api}" --max-results "${MAX_RESULTS_INPUT:-100}" | tee output.log
           SUMMARY_LINE=$(grep -oP '^SUMMARY:\K.*' output.log || echo "no changes")
           echo "summary=$SUMMARY_LINE" >> $GITHUB_OUTPUT
         env:
