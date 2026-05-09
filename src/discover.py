@@ -57,7 +57,7 @@ def fetch_apis(query: str = "topic:api", max_results: int = 100) -> list[API]:
     if token:
         headers["Authorization"] = f"token {token}"
 
-    all_items = []
+    all_items: list[API] = []
     page = 1
     while len(all_items) < max_results:
         params = {
