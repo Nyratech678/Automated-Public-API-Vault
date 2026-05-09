@@ -10,7 +10,7 @@
 
 | [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐 Node.js API service | N/A | N/A | 30295 | 2026-05-09 | Archived |
 
-| [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | JavaScript | MIT | 20842 | 2026-05-09 | Archived |
+| [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | JavaScript | MIT | 20841 | 2026-05-09 | Archived |
 
 | [web3/web3.js](https://github.com/web3/web3.js) | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and… | TypeScript | NOASSERTION | 19936 | 2026-05-09 | Archived |
 
