@@ -1,50 +1,24 @@
 # Automated Public API Vault
 
-Automated Public API Vault est un catalogue vivant d'API publiques. Le projet découvre des dépôts sur GitHub, les classe automatiquement par domaine, génère la documentation associée et alimente une vitrine web statique pensée pour la consultation rapide.
+Curated public APIs, organized by category and updated automatically.
 
-## Pourquoi ce projet existe
+## Categories
 
-Le dépôt transforme une veille manuelle en pipeline automatisé. L'objectif est simple: identifier des API pertinentes, les organiser proprement, et offrir une interface lisible pour explorer rapidement le catalogue sans parcourir des centaines de dépôts à la main.
 
-## Ce qui obtenu
 
-- Une découverte automatisée des dépôts liés aux APIs.
-- Une catégorisation hybride basée sur les `topics` GitHub et un mapping lexical extensible.
-- Une documentation Markdown générée par catégorie.
-- Des exports JSON consommés par la vitrine web.
-- Une interface front statique avec recherche instantanée, statistiques et navigation latérale.
-- Un workflow GitHub Actions planifié pour maintenir le catalogue à jour.
+- [other](categories/other/README.md)
 
-## Architecture
+- [messaging](categories/messaging/README.md)
 
-1. `src/discover.py` interroge l'API GitHub et récupère les dépôts.
-2. `src/filter.py` sépare les projets actifs des projets archivés ou trop anciens.
-3. `src/categorizer.py` applique la logique de classification.
-4. `src/writer.py` génère les README de catégorie et exporte `apis.json` et `categories.json`.
-5. `cyber_vault.html` lit ces fichiers pour afficher la vitrine.
+- [data](categories/data/README.md)
 
-## Structure du dépôt
+- [machine-learning](categories/machine-learning/README.md)
 
-- `src/main.py`: point d'entrée CLI.
-- `src/discover.py`: collecte des dépôts GitHub.
-- `src/filter.py`: filtrage des APIs actives/inactives.
-- `src/categorizer.py`: moteur de catégorisation.
-- `src/writer.py`: génération de la documentation et des exports.
-- `templates/`: templates Jinja2 utilisés pour les README.
-- `category_mapping.json`: dictionnaire de mots-clés par catégorie.
-- `cyber_vault.html`: vitrine web statique.
+- [infra](categories/infra/README.md)
 
-## Démarrage rapide
+- [auth](categories/auth/README.md)
 
-### Prérequis
+- [security](categories/security/README.md)
 
-- Python 3.12 ou 3.13.
-- Un token GitHub dans `GITHUB_TOKEN` est recommandé pour éviter les limites de taux de l'API.
+- [inactive](categories/inactive/README.md)
 
-### Installation
-
-```bash
-python -m venv env
-source env/bin/activate
-pip install -r requirements.txt
-```

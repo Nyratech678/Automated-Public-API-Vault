@@ -1,0 +1,18 @@
+# messaging
+
+
+**5** APIs in this category.
+
+| Name | Description | Language | License | Stars | Updated | Status |
+|------|-------------|----------|---------|-------|---------|--------|
+
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Des… | TypeScript | MIT | 79144 | 2026-05-09 | Active |
+
+| [Kong/insomnia](https://github.com/Kong/insomnia) | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud,… | TypeScript | Apache-2.0 | 38388 | 2026-05-09 | Active |
+
+| [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | Go | NOASSERTION | 10714 | 2026-05-08 | Active |
+
+| [coaidev/coai](https://github.com/coaidev/coai) | 🚀 Next Generation Multi-tenant AI One-Stop Solution. Builtin Admin & Billing System. Enterprise-Gra… | TypeScript | Apache-2.0 | 9143 | 2026-05-09 | Active |
+
+| [artilleryio/artillery](https://github.com/artilleryio/artillery) | The complete load testing platform. Everything you need for production-grade load tests. Serverless… | JavaScript | MPL-2.0 | 8978 | 2026-05-08 | Active |
+

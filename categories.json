@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "other",
+      "count": 54
+    },
+    {
+      "name": "messaging",
+      "count": 5
+    },
+    {
+      "name": "data",
+      "count": 13
+    },
+    {
+      "name": "machine-learning",
+      "count": 8
+    },
+    {
+      "name": "infra",
+      "count": 9
+    },
+    {
+      "name": "auth",
+      "count": 3
+    },
+    {
+      "name": "security",
+      "count": 1
+    },
+    {
+      "name": "inactive",
+      "count": 7
+    }
+  ]
+}
