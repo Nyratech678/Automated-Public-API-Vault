@@ -6,11 +6,11 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 433514 | 2026-05-09 | Active |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 433518 | 2026-05-09 | Active |
 
 | [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | NOASSERTION | 99507 | 2026-05-09 | Active |
 
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | MIT | 98048 | 2026-05-09 | Active |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | MIT | 98049 | 2026-05-09 | Active |
 
 | [typicode/json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | JavaScript | MIT | 75549 | 2026-05-09 | Active |
 
@@ -60,7 +60,7 @@
 
 | [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. | Python | AGPL-3.0 | 14333 | 2026-05-09 | Active |
 
-| [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | GPT-Image-2 API and Prompts | Python | CC0-1.0 | 13688 | 2026-05-09 | Active |
+| [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | GPT-Image-2 API and Prompts | Python | CC0-1.0 | 13690 | 2026-05-09 | Active |
 
 | [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) | HTTP Request & Response Service, written in Python + Flask. | Python | ISC | 13558 | 2026-05-09 | Active |
 
