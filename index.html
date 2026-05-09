@@ -762,7 +762,7 @@
             }
         });
 
-        fetch('categories.json')
+        fetch('category_mapping.json')
             .then(response => {
                 if (!response.ok) throw new Error(response.statusText || 'Network error');
                 return response.json();
@@ -832,9 +832,9 @@
                     <p>${description}</p>
                     ${topicMarkup}
                     <div class="meta">
-                        <span>⭐ ${stars}</span>
-                        <span>💻 ${language}</span>
-                        <span>🕒 ${updatedAt}</span>
+                        <span> ${stars}</span>
+                        <span> ${language}</span>
+                        <span> ${updatedAt}</span>
                     </div>
                     <div class="card-links">
                         <a class="card-link" href="${url}" target="_blank" rel="noopener noreferrer">Repository ↗</a>
