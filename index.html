@@ -103,6 +103,8 @@
             box-shadow: var(--shadow);
             backdrop-filter: blur(16px);
             transition: transform 0.25s ease, left 0.3s ease, background 0.2s, border-color 0.2s, color 0.2s;
+            -webkit-appearance: none;
+            appearance: none;
         }
 
         .hamburger:hover {
@@ -602,7 +604,7 @@
 </head>
 <body>
     <div class="app-shell">
-        <div class="hamburger" id="hamburger">☰</div>
+        <button class="hamburger" id="hamburger" type="button" aria-label="Menu">☰</button>
         <aside class="sidebar" id="sidebar">
             <div class="logo">[CYBER<span>VAULT</span>]</div>
             <div class="tagline">Public APIs, curated and searchable.</div>
@@ -762,7 +764,7 @@
             }
         });
 
-        fetch('category_mapping.json')
+        fetch('categories.json')
             .then(response => {
                 if (!response.ok) throw new Error(response.statusText || 'Network error');
                 return response.json();
@@ -773,8 +775,25 @@
                 renderStats();
             })
             .catch(error => {
-                console.error('Erreur chargement category_mapping.json:', error);
+                console.error('Erreur chargement categories.json:', error);
                 addMessage('Erreur chargement catégories');
+            });
+        
+        fetch('apis.json')
+            .then(response => {
+                if (!response.ok) throw new Error(response.statusText);
+                return response.json();
+            })
+            .then(data => {
+                allAPIs = Array.isArray(data) ? data : [];
+                displayAPIs(allAPIs);
+                renderStats();
+            })
+            .catch(error => {
+                console.error('Erreur chargement apis.json:', error);
+                allAPIs = [];
+                displayAPIs([]);
+                renderStats();
             });
 
         function displayAPIs(apis) {
