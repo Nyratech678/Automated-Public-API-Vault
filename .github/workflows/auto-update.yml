@@ -75,7 +75,7 @@ jobs:
             echo "No changes to commit."
           else
             SUMMARY="${{ steps.curation.outputs.summary }}"
-            git add categories/ README.md cyber_vault.html
+            git add categories/ README.md index.html
             git add -f apis.json categories.json
             git commit -m "chore: update vault (${SUMMARY})"
             git push
