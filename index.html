@@ -773,25 +773,8 @@
                 renderStats();
             })
             .catch(error => {
-                console.error('Erreur chargement categories.json:', error);
+                console.error('Erreur chargement category_mapping.json:', error);
                 addMessage('Erreur chargement catégories');
-            });
-
-        fetch('apis.json')
-            .then(response => {
-                if (!response.ok) throw new Error('Fichier introuvable');
-                return response.json();
-            })
-            .then(data => {
-                allAPIs = Array.isArray(data) ? data : [];
-                renderStats();
-                displayAPIs(allAPIs);
-                updateResultsLabel(allAPIs.length);
-            })
-            .catch(error => {
-                console.error('Erreur chargement APIs:', error);
-                document.getElementById('apiGrid').innerHTML = '<p class="empty-state">Aucune API trouvée.</p>';
-                updateResultsLabel(0);
             });
 
         function displayAPIs(apis) {
