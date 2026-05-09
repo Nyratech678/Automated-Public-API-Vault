@@ -15,7 +15,6 @@ venv/
 
 # Generated web assets
 apis.json
-category_mapping.json
 output.log
 
 # OS files

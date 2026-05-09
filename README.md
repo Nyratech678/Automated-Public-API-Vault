@@ -6,7 +6,7 @@ Automated Public API Vault est un catalogue vivant d'API publiques. Le projet d�
 
 Le dépôt transforme une veille manuelle en pipeline automatisé. L'objectif est simple: identifier des API pertinentes, les organiser proprement, et offrir une interface lisible pour explorer rapidement le catalogue sans parcourir des centaines de dépôts à la main.
 
-## Ce que tu obtiens
+## Ce qui obtenu
 
 - Une découverte automatisée des dépôts liés aux APIs.
 - Une catégorisation hybride basée sur les `topics` GitHub et un mapping lexical extensible.
