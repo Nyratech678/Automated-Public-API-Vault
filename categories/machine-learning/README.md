@@ -6,15 +6,15 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any ha… | Go | MIT | 46171 | 2026-05-10 | Active |
+| [mudler/LocalAI](https://github.com/mudler/LocalAI) | LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any ha… | Go | MIT | 46172 | 2026-05-10 | Active |
 
 | [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) | Automate browser based workflows with AI | Python | AGPL-3.0 | 21553 | 2026-05-10 | Active |
 
 | [getmaxun/maxun](https://github.com/getmaxun/maxun) | 🔥 The open-source no-code platform for web scraping, crawling, search and AI data extraction • Turn… | TypeScript | AGPL-3.0 | 15560 | 2026-05-09 | Active |
 
-| [iii-hq/iii](https://github.com/iii-hq/iii) | Effortlessly compose, extend, and observe every service in real-time for the first time ever. | Rust | N/A | 15527 | 2026-05-10 | Active |
+| [iii-hq/iii](https://github.com/iii-hq/iii) | Effortlessly compose, extend, and observe every service in real-time for the first time ever. | Rust | N/A | 15528 | 2026-05-10 | Active |
 
-| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebook… | Python | MIT | 12931 | 2026-05-10 | Active |
+| [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to Notebook… | Python | MIT | 12938 | 2026-05-10 | Active |
 
 | [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) | Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) | Python | Apache-2.0 | 12861 | 2026-05-09 | Active |
 
