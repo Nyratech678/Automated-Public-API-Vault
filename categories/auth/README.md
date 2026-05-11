@@ -8,7 +8,7 @@
 
 | [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) | Checklist of the most important security countermeasures when designing, testing, and releasing your API | N/A | MIT | 23232 | 2026-05-10 | Active |
 
-| [NangoHQ/nango](https://github.com/NangoHQ/nango) | Build product integrations with AI. | TypeScript | NOASSERTION | 7329 | 2026-05-10 | Active |
+| [NangoHQ/nango](https://github.com/NangoHQ/nango) | Build product integrations with AI. | TypeScript | NOASSERTION | 7329 | 2026-05-11 | Active |
 
 | [eddycjy/go-gin-example](https://github.com/eddycjy/go-gin-example) | An example of gin | Go | MIT | 7182 | 2026-05-10 | Active |
 
