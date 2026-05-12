@@ -8,7 +8,7 @@
 
 | [slatedocs/slate](https://github.com/slatedocs/slate) | Beautiful static documentation for your API | N/A | N/A | 36128 | 2026-05-11 | Archived |
 
-| [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐 Node.js API service | N/A | N/A | 30291 | 2026-05-11 | Archived |
+| [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐 Node.js API service | N/A | N/A | 30291 | 2026-05-12 | Archived |
 
 | [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | JavaScript | MIT | 20841 | 2026-05-09 | Archived |
 
