@@ -6,9 +6,9 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Des… | TypeScript | MIT | 79164 | 2026-05-12 | Active |
+| [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) | Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Des… | TypeScript | MIT | 79166 | 2026-05-13 | Active |
 
-| [Kong/insomnia](https://github.com/Kong/insomnia) | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud,… | TypeScript | Apache-2.0 | 38395 | 2026-05-12 | Active |
+| [Kong/insomnia](https://github.com/Kong/insomnia) | The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud,… | TypeScript | Apache-2.0 | 38397 | 2026-05-13 | Active |
 
 | [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) | Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols | Go | NOASSERTION | 10715 | 2026-05-12 | Active |
 

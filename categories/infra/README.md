@@ -6,13 +6,13 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, color… | Python | BSD-3-Clause | 38110 | 2026-05-12 | Active |
+| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, color… | Python | BSD-3-Clause | 38114 | 2026-05-13 | Active |
 
-| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33564 | 2026-05-12 | Active |
+| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33591 | 2026-05-13 | Active |
 
-| [apache/apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | Apache-2.0 | 16582 | 2026-05-12 | Active |
+| [apache/apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | Apache-2.0 | 16584 | 2026-05-13 | Active |
 
-| [gotify/server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | Go | NOASSERTION | 14982 | 2026-05-12 | Active |
+| [gotify/server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | Go | NOASSERTION | 14984 | 2026-05-12 | Active |
 
 | [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | Python | MIT | 13858 | 2026-05-12 | Active |
 
