@@ -6,5 +6,5 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) | Security Guide for Developers | N/A | N/A | 21087 | 2026-05-12 | Active |
+| [FallibleInc/security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers) | Security Guide for Developers | N/A | N/A | 21086 | 2026-05-13 | Active |
 
