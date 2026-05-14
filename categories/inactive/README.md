@@ -12,7 +12,7 @@
 
 | [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | JavaScript | MIT | 20841 | 2026-05-14 | Archived |
 
-| [web3/web3.js](https://github.com/web3/web3.js) | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and… | TypeScript | NOASSERTION | 19934 | 2026-05-14 | Archived |
+| [web3/web3.js](https://github.com/web3/web3.js) | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and… | TypeScript | NOASSERTION | 19933 | 2026-05-14 | Archived |
 
 | [youfou/wxpy](https://github.com/youfou/wxpy) | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | Python | MIT | 14264 | 2026-05-14 | Archived |
 
