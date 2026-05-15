@@ -14,7 +14,7 @@
 
 | [web3/web3.js](https://github.com/web3/web3.js) | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and… | TypeScript | NOASSERTION | 19933 | 2026-05-14 | Archived |
 
-| [youfou/wxpy](https://github.com/youfou/wxpy) | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | Python | MIT | 14264 | 2026-05-14 | Archived |
+| [youfou/wxpy](https://github.com/youfou/wxpy) | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | Python | MIT | 14262 | 2026-05-15 | Archived |
 
 | [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) | :octocat: A collection of APIs | N/A | CC-BY-SA-4.0 | 12953 | 2026-05-14 | Archived |
 
