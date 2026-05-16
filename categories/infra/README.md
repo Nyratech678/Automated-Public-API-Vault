@@ -6,13 +6,13 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, color… | Python | BSD-3-Clause | 38136 | 2026-05-16 | Active |
+| [httpie/cli](https://github.com/httpie/cli) | 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, color… | Python | BSD-3-Clause | 38137 | 2026-05-16 | Active |
 
-| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33785 | 2026-05-16 | Active |
+| [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义… | JavaScript | MIT | 33788 | 2026-05-16 | Active |
 
-| [apache/apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | Apache-2.0 | 16604 | 2026-05-16 | Active |
+| [apache/apisix](https://github.com/apache/apisix) | The Cloud-Native API Gateway and AI Gateway | Lua | Apache-2.0 | 16603 | 2026-05-16 | Active |
 
-| [gotify/server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | Go | NOASSERTION | 14999 | 2026-05-16 | Active |
+| [gotify/server](https://github.com/gotify/server) | A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) | Go | NOASSERTION | 14998 | 2026-05-16 | Active |
 
 | [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) | Proxy server to bypass Cloudflare protection | Python | MIT | 13904 | 2026-05-16 | Active |
 
@@ -22,5 +22,5 @@
 
 | [apex/up](https://github.com/apex/up) | Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS. | Go | MIT | 8804 | 2026-05-15 | Active |
 
-| [mockoon/mockoon](https://github.com/mockoon/mockoon) | Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account … | TypeScript | MIT | 8255 | 2026-05-15 | Active |
+| [mockoon/mockoon](https://github.com/mockoon/mockoon) | Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account … | TypeScript | MIT | 8256 | 2026-05-16 | Active |
 
