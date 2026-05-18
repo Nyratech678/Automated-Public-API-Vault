@@ -6,91 +6,91 @@
 | Name | Description | Language | License | Stars | Updated | Status |
 |------|-------------|----------|---------|-------|---------|--------|
 
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 435498 | 2026-05-17 | Active |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | MIT | 435560 | 2026-05-18 | Active |
 
-| [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | NOASSERTION | 99719 | 2026-05-17 | Active |
+| [neovim/neovim](https://github.com/neovim/neovim) | Vim-fork focused on extensibility and usability | Vim Script | NOASSERTION | 99719 | 2026-05-18 | Active |
 
-| [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | MIT | 98285 | 2026-05-17 | Active |
+| [fastapi/fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | Python | MIT | 98288 | 2026-05-18 | Active |
 
-| [typicode/json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | JavaScript | MIT | 75569 | 2026-05-17 | Active |
+| [typicode/json-server](https://github.com/typicode/json-server) | Get a full fake REST API with zero coding in less than 30 seconds (seriously) | JavaScript | MIT | 75570 | 2026-05-18 | Active |
 
-| [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | MIT | 73260 | 2026-05-17 | Active |
+| [ocornut/imgui](https://github.com/ocornut/imgui) | Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies | C++ | MIT | 73267 | 2026-05-18 | Active |
 
-| [ccxt/ccxt](https://github.com/ccxt/ccxt) | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# … | Python | MIT | 42483 | 2026-05-17 | Active |
+| [ccxt/ccxt](https://github.com/ccxt/ccxt) | A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# … | Python | MIT | 42487 | 2026-05-18 | Active |
 
-| [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | TypeScript | MIT | 40222 | 2026-05-17 | Active |
+| [trpc/trpc](https://github.com/trpc/trpc) | 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  | TypeScript | MIT | 40223 | 2026-05-18 | Active |
 
-| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | … | N/A | MIT | 37986 | 2026-05-17 | Active |
+| [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | … | N/A | MIT | 37990 | 2026-05-18 | Active |
 
-| [encode/django-rest-framework](https://github.com/encode/django-rest-framework) | Web APIs for Django. 🎸 | Python | NOASSERTION | 30020 | 2026-05-17 | Active |
+| [encode/django-rest-framework](https://github.com/encode/django-rest-framework) | Web APIs for Django. 🎸 | Python | NOASSERTION | 30024 | 2026-05-18 | Active |
 
 | [YMFE/yapi](https://github.com/YMFE/yapi) | YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | JavaScript | Apache-2.0 | 27724 | 2026-05-14 | Active |
 
-| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 | Python | MIT | 26468 | 2026-05-17 | Active |
+| [littlecodersh/ItChat](https://github.com/littlecodersh/ItChat) | A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。 | Python | MIT | 26469 | 2026-05-18 | Active |
 
-| [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documen… | Java | Apache-2.0 | 26253 | 2026-05-17 | Active |
+| [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) | OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documen… | Java | Apache-2.0 | 26253 | 2026-05-18 | Active |
 
-| [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、web… | Kotlin | BSD-2-Clause | 25667 | 2026-05-17 | Active |
+| [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) | 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、web… | Kotlin | BSD-2-Clause | 25670 | 2026-05-18 | Active |
 
-| [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | N/A | NOASSERTION | 23269 | 2026-05-16 | Active |
+| [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) | Microsoft REST API Guidelines | N/A | NOASSERTION | 23272 | 2026-05-18 | Active |
 
-| [go-chi/chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | Go | MIT | 22198 | 2026-05-17 | Active |
+| [go-chi/chi](https://github.com/go-chi/chi) | lightweight, idiomatic and composable router for building Go HTTP services | Go | MIT | 22196 | 2026-05-18 | Active |
 
-| [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | Apache-2.0 | 21827 | 2026-05-17 | Active |
+| [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) | A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app | JavaScript | Apache-2.0 | 21829 | 2026-05-17 | Active |
 
-| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。 | Python | Apache-2.0 | 17924 | 2026-05-17 | Active |
+| [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) | 🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。 | Python | Apache-2.0 | 17930 | 2026-05-18 | Active |
 
 | [mswjs/msw](https://github.com/mswjs/msw) | Industry standard API mocking for JavaScript. | TypeScript | MIT | 17923 | 2026-05-17 | Active |
 
 | [fangzesheng/free-api](https://github.com/fangzesheng/free-api) | 收集免费的接口服务,做一个api的搬运工 | N/A | N/A | 16082 | 2026-05-17 | Active |
 
-| [amplication/amplication](https://github.com/amplication/amplication) | Amplication brings order to the chaos of large-scale software development by creating Golden Paths … | TypeScript | NOASSERTION | 16002 | 2026-05-17 | Active |
+| [amplication/amplication](https://github.com/amplication/amplication) | Amplication brings order to the chaos of large-scale software development by creating Golden Paths … | TypeScript | NOASSERTION | 16004 | 2026-05-18 | Active |
 
 | [jsdoc/jsdoc](https://github.com/jsdoc/jsdoc) | An API documentation generator for JavaScript. | JavaScript | Apache-2.0 | 15436 | 2026-05-17 | Active |
 
-| [Jackett/Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | C# | GPL-2.0 | 15383 | 2026-05-17 | Active |
+| [Jackett/Jackett](https://github.com/Jackett/Jackett) | API Support for your favorite torrent trackers | C# | GPL-2.0 | 15385 | 2026-05-18 | Active |
 
 | [apitable/apitable](https://github.com/apitable/apitable) | 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all… | TypeScript | AGPL-3.0 | 15366 | 2026-05-17 | Active |
 
-| [scalar/scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Clie… | TypeScript | MIT | 15043 | 2026-05-17 | Active |
+| [scalar/scalar](https://github.com/scalar/scalar) | Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Clie… | TypeScript | MIT | 15044 | 2026-05-18 | Active |
 
 | [BrainJS/brain.js](https://github.com/BrainJS/brain.js) | 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js | TypeScript | MIT | 14853 | 2026-05-17 | Active |
 
-| [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | GPT-Image-2 API and Prompts | Python | CC0-1.0 | 14804 | 2026-05-17 | Active |
+| [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | GPT-Image-2 API and Prompts | Python | CC0-1.0 | 14841 | 2026-05-18 | Active |
 
-| [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | A curated list of free public APIs across 48 categories — searchable, community-maintained, with a … | N/A | MIT | 14478 | 2026-05-17 | Active |
+| [public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists) | A curated list of free public APIs across 48 categories — searchable, community-maintained, with a … | N/A | MIT | 14483 | 2026-05-18 | Active |
 
-| [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. | Python | AGPL-3.0 | 14378 | 2026-05-17 | Active |
+| [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. | Python | AGPL-3.0 | 14379 | 2026-05-17 | Active |
 
 | [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) | HTTP Request & Response Service, written in Python + Flask. | Python | ISC | 13563 | 2026-05-16 | Active |
 
-| [star7th/showdoc](https://github.com/star7th/showdoc) | ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 | PHP | NOASSERTION | 12822 | 2026-05-15 | Active |
+| [star7th/showdoc](https://github.com/star7th/showdoc) | ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具 | PHP | NOASSERTION | 12824 | 2026-05-18 | Active |
 
-| [zealdocs/zeal](https://github.com/zealdocs/zeal) | Offline documentation browser inspired by Dash | C++ | GPL-3.0 | 12628 | 2026-05-17 | Active |
+| [zealdocs/zeal](https://github.com/zealdocs/zeal) | Offline documentation browser inspired by Dash | C++ | GPL-3.0 | 12629 | 2026-05-17 | Active |
 
-| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | An API standard for single-agent reinforcement learning environments, with popular reference enviro… | Python | MIT | 11903 | 2026-05-17 | Active |
+| [Farama-Foundation/Gymnasium](https://github.com/Farama-Foundation/Gymnasium) | An API standard for single-agent reinforcement learning environments, with popular reference enviro… | Python | MIT | 11903 | 2026-05-18 | Active |
 
-| [astrit/css.gg](https://github.com/astrit/css.gg) | 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts. | JavaScript | NOASSERTION | 9995 | 2026-05-15 | Active |
+| [astrit/css.gg](https://github.com/astrit/css.gg) | 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts. | JavaScript | NOASSERTION | 9994 | 2026-05-17 | Active |
 
 | [ruby-grape/grape](https://github.com/ruby-grape/grape) | An opinionated framework for creating REST-like APIs in Ruby. | Ruby | MIT | 9983 | 2026-05-17 | Active |
 
 | [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) | Swagger 2.0 implementation for go | Go | Apache-2.0 | 9978 | 2026-05-17 | Active |
 
-| [falconry/falcon](https://github.com/falconry/falcon) | The no-magic web API and microservices framework for Python developers, with a focus on reliability… | Python | Apache-2.0 | 9798 | 2026-05-17 | Active |
+| [falconry/falcon](https://github.com/falconry/falcon) | The no-magic web API and microservices framework for Python developers, with a focus on reliability… | Python | Apache-2.0 | 9797 | 2026-05-18 | Active |
 
 | [lihengming/spring-boot-api-project-seed](https://github.com/lihengming/spring-boot-api-project-seed) | :seedling::rocket:一个基于Spring Boot & MyBatis的种子项目，用于快速构建中小型API、RESTful API项目~ | Java | N/A | 9706 | 2026-05-17 | Active |
 
-| [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) | Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend de… | JavaScript | NOASSERTION | 9327 | 2026-05-17 | Active |
+| [hiteshchoudhary/apihub](https://github.com/hiteshchoudhary/apihub) | Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend de… | JavaScript | NOASSERTION | 9331 | 2026-05-18 | Active |
 
 | [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) | Telegram Bot API for NodeJS | JavaScript | MIT | 9147 | 2026-05-17 | Active |
 
-| [api-platform/api-platform](https://github.com/api-platform/api-platform) | 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. | TypeScript | MIT | 9131 | 2026-05-15 | Active |
+| [api-platform/api-platform](https://github.com/api-platform/api-platform) | 🕸️ Create REST and GraphQL APIs, scaffold Jamstack webapps, stream changes in real-time. | TypeScript | MIT | 9132 | 2026-05-18 | Active |
 
 | [httpie/http-prompt](https://github.com/httpie/http-prompt) | An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomple… | Python | MIT | 9118 | 2026-05-17 | Active |
 
 | [loco-rs/loco](https://github.com/loco-rs/loco) | 🚂 🦀 The one-person framework for Rust for side-projects and startups | Rust | Apache-2.0 | 8899 | 2026-05-17 | Active |
 
-| [dicebear/dicebear](https://github.com/dicebear/dicebear) | DiceBear is an avatar library for designers and developers. 🌍 | Vue | MIT | 8659 | 2026-05-17 | Active |
+| [dicebear/dicebear](https://github.com/dicebear/dicebear) | DiceBear is an avatar library for designers and developers. 🌍 | Vue | MIT | 8665 | 2026-05-18 | Active |
 
 | [Johnserf-Seed/TikTokDownload](https://github.com/Johnserf-Seed/TikTokDownload) | 抖音去水印批量下载用户主页作品、喜欢、收藏、图文、音频 | Python | MIT | 8620 | 2026-05-17 | Active |
 
@@ -100,7 +100,7 @@
 
 | [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) | Create GraphQL schema and resolvers with TypeScript, using classes and decorators! | TypeScript | MIT | 8087 | 2026-05-17 | Active |
 
-| [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) | NextTrace, an open source visual route tracking CLI tool | Go | GPL-3.0 | 7826 | 2026-05-17 | Active |
+| [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) | NextTrace, an open source visual route tracking CLI tool | Go | GPL-3.0 | 7827 | 2026-05-18 | Active |
 
 | [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) | No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need… | JavaScript | MIT | 7758 | 2026-05-17 | Active |
 

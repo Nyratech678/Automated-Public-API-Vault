@@ -8,13 +8,13 @@
 
 | [slatedocs/slate](https://github.com/slatedocs/slate) | Beautiful static documentation for your API | N/A | N/A | 36124 | 2026-05-15 | Archived |
 
-| [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐 Node.js API service | N/A | N/A | 30289 | 2026-05-17 | Archived |
+| [Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) | 网易云音乐 Node.js API service | N/A | N/A | 30290 | 2026-05-17 | Archived |
 
 | [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) | Normalizes nested JSON according to a schema | JavaScript | MIT | 20839 | 2026-05-17 | Archived |
 
 | [web3/web3.js](https://github.com/web3/web3.js) | Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and… | TypeScript | NOASSERTION | 19934 | 2026-05-17 | Archived |
 
-| [youfou/wxpy](https://github.com/youfou/wxpy) | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | Python | MIT | 14266 | 2026-05-17 | Archived |
+| [youfou/wxpy](https://github.com/youfou/wxpy) | 微信机器人 / 可能是最优雅的微信个人号 API ✨✨ | Python | MIT | 14267 | 2026-05-18 | Archived |
 
 | [TonnyL/Awesome_APIs](https://github.com/TonnyL/Awesome_APIs) | :octocat: A collection of APIs | N/A | CC-BY-SA-4.0 | 12956 | 2026-05-17 | Archived |
 
